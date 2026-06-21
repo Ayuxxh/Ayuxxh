@@ -80,7 +80,7 @@ I'm always open to interesting conversations, collaborations, or opportunities. 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ayuxxh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ⭐️ **Thanks for stopping by!**
