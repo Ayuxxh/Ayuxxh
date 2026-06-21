@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ayushkumar](https://www.linkedin.com/in/ayush-jadhav-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-jadhav-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contact.ayushjadhav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://ayush.dev" target="_blank">
+  <a href="https://ayuxxh.github.io/Ayush-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </p>
